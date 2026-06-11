@@ -1,4 +1,4 @@
-# AI File Organizer
+# File Organizer
 
 Organizador inteligente de arquivos desenvolvido em Python.
 
