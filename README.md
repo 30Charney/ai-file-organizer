@@ -1,37 +1,33 @@
-# File Organizer
+# Organizador de Arquivos
 
-Organizador inteligente de arquivos desenvolvido em Python.
+Projeto em Python para analisar e organizar arquivos automaticamente.
 
 ## Funcionalidades
 
 - Escaneamento de diretórios
-- Organização automática
+- Classificação de arquivos
 - Detecção de arquivos duplicados
-- Relatórios de análise
+- Geração de relatórios
 
 ## Estrutura
 
 ```text
-ai-file-organizer/
-│
-├── organizer/
-│   └── scanner.py
-│
-├── main.py
-├── README.md
-└── .gitignore
+organizador/
+├── scanner.py
+├── classifier.py
+├── duplicates.py
 ```
 
 ## Tecnologias
 
 - Python
 - pathlib
+- hashlib
 - GitHub
 
 ## Próximas melhorias
 
-- [ ] CLI interativa
-- [ ] Detecção de duplicados
-- [ ] Relatórios HTML
 - [ ] Interface gráfica
-- [ ] Inteligência Artificial
+- [ ] Relatórios HTML
+- [ ] Organização automática por categoria
+- [ ] Testes automatizados
