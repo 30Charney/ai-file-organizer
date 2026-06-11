@@ -31,3 +31,5 @@ organizador/
 - [ ] Relatórios HTML
 - [ ] Organização automática por categoria
 - [ ] Testes automatizados
+## Status
+Versão 1.0 concluída.
